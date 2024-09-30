@@ -1,0 +1,6 @@
+# Redirecciones desde lo que solicita el navegador a lo que servimos
+/code-of-conduct    /coc
+/contact-us         /contact
+/support-us         /support
+/the-team           /team
+/feed               /feed.xml

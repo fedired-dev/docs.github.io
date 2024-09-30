@@ -1,0 +1,14 @@
+- name: Inicio
+  link: /
+
+- name: Codigo de Conducta
+  link: /coc/
+
+- name: Apoyanos
+  link: /support/
+
+- name: Contacto
+  link: /contact/
+
+- name: Team
+  link: /team/
